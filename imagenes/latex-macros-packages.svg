@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   x="0"
+   y="0"
+   width="400"
+   height="400"
+   viewBox="0 0 400 400"
+   id="svg141"
+   sodipodi:docname="pear-logo.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:export-filename="/mnt/boveda/BOVEDA-VECTORES/frutas/fruit-pattern-publicdomainvectors.png"
+   inkscape:export-xdpi="120.252"
+   inkscape:export-ydpi="120.252"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs145" />
+  <sodipodi:namedview
+     id="namedview143"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.88329238"
+     inkscape:cx="178.87622"
+     inkscape:cy="353.78999"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg141" />
+  <g
+     id="g9296"
+     transform="matrix(1.0950798,0,0,1.0950798,-17.532941,-16.632279)">
+    <g
+       id="g12"
+       transform="matrix(2.3146919,0,0,2.3146919,-7.7984145,13.166739)">
+      <path
+         d="m 121.898,58.685 c 0.072,-1.584 -0.072,-3.24 -0.288,-4.896 -1.944,-14.472 -14.184,-25.776 -28.8,-26.568 -17.712,-0.936 -32.4,13.176 -32.4,30.672 0,0.144 0,0.288 0,0.432 0.072,5.833 -2.377,11.305 -6.625,15.265 -9.504,8.64 -15.336,20.592 -15.336,33.768 0,26.352 23.473,47.736 52.345,47.736 28.944,0 52.344,-21.384 52.344,-47.736 0,-13.032 -5.688,-24.768 -14.976,-33.408 -4.248,-3.96 -6.48,-9.432 -6.336,-15.265 z"
+         fill="#d8df21"
+         id="path2" />
+      <path
+         d="m 76.322,65.454 c -0.648,0 -1.296,-0.36 -1.656,-0.936 -5.976,-10.441 1.584,-19.297 6.408,-22.537 0.864,-0.576 2.016,-0.36 2.592,0.504 0.576,0.864 0.36,2.016 -0.504,2.592 -0.504,0.288 -10.944,7.56 -5.256,17.569 0.504,0.936 0.216,2.016 -0.72,2.592 -0.288,0.144 -0.648,0.216 -0.936,0.216 z"
+         fill="#ffffff"
+         id="path4" />
+      <path
+         d="m 58.825,125.646 c -0.648,0 -1.296,-0.36 -1.656,-0.936 -13.824,-24.408 -2.376,-40.176 5.689,-45.144 0.864,-0.576 2.016,-0.288 2.592,0.576 0.576,0.864 0.288,2.016 -0.576,2.592 -0.864,0.504 -19.801,12.888 -4.392,40.104 0.504,0.936 0.216,2.016 -0.72,2.592 -0.288,0.144 -0.649,0.216 -0.937,0.216 z"
+         fill="#ffffff"
+         id="path6" />
+      <path
+         d="m 90.866,32.837 c -0.648,0 -1.296,-0.36 -1.656,-0.936 -8.568,-14.688 -0.288,-26.64 0.072,-27.144 0.576,-0.864 1.8,-1.008 2.592,-0.432 0.864,0.576 1.008,1.8 0.432,2.592 -0.288,0.432 -7.2,10.512 0.072,23.04 0.504,0.864 0.216,2.016 -0.648,2.592 -0.288,0.144 -0.648,0.288 -0.936,0.288 z"
+         fill="#d8df21"
+         id="path8" />
+      <path
+         d="m 73.154,2.957 c -8.352,-2.808 -17.353,1.152 -18.721,1.8 0.432,0.072 1.872,0.36 3.816,0.792 2.377,0.504 5.545,1.296 8.641,2.16 1.584,0.432 3.168,0.792 4.608,1.368 0.72,0.288 1.368,0.576 2.016,0.936 0.648,0.36 1.224,0.648 1.728,1.008 0.504,0.36 1.008,0.648 1.368,1.008 0.432,0.36 0.72,0.576 1.008,0.864 0.504,0.576 0.72,0.936 0.72,0.936 l -0.144,0.216 c 0,0 -0.432,-0.144 -1.08,-0.36 -0.648,-0.216 -1.656,-0.504 -2.736,-0.792 -0.576,-0.216 -1.224,-0.36 -1.8,-0.576 C 71.93,12.101 71.21,11.885 70.562,11.597 69.194,11.021 67.754,10.301 66.242,9.725 63.29,8.501 60.266,7.421 57.961,6.557 56.017,5.837 54.649,5.333 54.289,5.189 c 0.648,1.224 5.401,10.008 13.825,12.816 9.072,3.096 18.936,-1.872 18.936,-1.872 0,0 -4.824,-9.936 -13.896,-12.96 z"
+         fill="#d8df21"
+         id="path10" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:172.432px;line-height:1.25;font-family:'Accanthis ADF Std';-inkscape-font-specification:'Accanthis ADF Std, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:4.17174"
+       x="73.68792"
+       y="224.09047"
+       id="text4416"
+       transform="scale(0.88177862,1.1340715)"><tspan
+         sodipodi:role="line"
+         id="tspan4414"
+         x="73.68792"
+         y="224.09047"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:172.432px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:4.17174">LMP</tspan></text>
+  </g>
+</svg>
