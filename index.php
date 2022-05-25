@@ -1,27 +1,24 @@
 <html>
 <head>
-	<title> ..:: LATEX-MACROS-PACKAGES ::..</title>
-	<meta http-equiv="content-type" content="text/html; charset=UTF8">
-  	<link href="imagenes/base.css" media="screen" rel="stylesheet" type="text/css">
-	 <meta http-equiv="X-UA-Compatible" content="chrome=1">
+	<?php 
+	include 'include/head.php';
+	?>
 </head>
 <body>
 
 	<?php
-	 ini_set('default_charset','UTF8');
-	?>
-
-	<?php 
-	include 'header.php';
+	ini_set('default_charset','UTF8');
+	include 'include/header.php';
 	?>
 
 	<div class="header gradient">
 	<div class="promo-area">
 		<h2>LATEX-MACROS-PACKAGES</h2>
 		<p>
-			Podemos descargar vários paquetes de macros desde los repositorios git 
+			Can be downloaded many latex macro packages from the git repository of 
 			<a href="https://sourceforge.net/p/latex-macros-packages/_list/git"><b>latex-macros-packages</b></a> 
-		</p>        
+			project.
+		</p> 
 	</div>
 	</div>
 
@@ -30,93 +27,123 @@
 	<div class="header libgradient">
 	
 	<!-- *********************************************************************** -->	
-	<div class="whiteblock libblock"><a target="_blank" href="https://sourceforge.net/p/latex-macros-packages/math-macros/ci/main/tree/">
-		<div class="imagedemo">
-		<img width="125px" height="125px" src="imagenes/latex-macros-packages.png"/>
+	<div class="degradeblock libblock"><a target="_blank" href="math-macros/math-macros.php">
+		<div class="itemtitle">
+		<b>Mathematical Macros</b>
 		</div>
-		<b>Math Macros</b>
-			texto texto      
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/math-macros.png"/>
+		</div>
+		</a>
+	</div>
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="catalographic-card/catalographic-card.php">
+		<div class="itemtitle">
+		<b>Catalographic Cards</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/catalographic-card.png"/>
+		</div>
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="whiteblock libblock"><a target="_blank" href="https://sourceforge.net/p/latex-macros-packages/catalographic-card/ci/main/tree/">
-		<div class="imagedemo">
-		<img width="125px" src="https://sourceforge.net/p/latex-macros-packages/catalographic-card/ci/main/tree/screenshot.png?format=raw"/>
+	<div class="degradeblock libblock"><a target="_blank" href="separator-rule/separator-rule.php">
+		<div class="itemtitle">
+		<b>Separator Rules</b>
 		</div>
-		<b>Catalographic Card</b>
-			texto texto      
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/separator-rule.png"/>
+		</div>
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="whiteblock libblock"><a target="_blank" href="https://sourceforge.net/p/latex-macros-packages/separator-rule/ci/main/tree/">
-		<div class="imagedemo">
-		<img width="125px" src="https://sourceforge.net/p/latex-macros-packages/separator-rule/ci/main/tree/screenshot.png?format=raw"/>
-		</div>
-		<b>Separator Rule</b>
-			texto texto      
-		</a>   
-	</div>
-	<!-- *********************************************************************** -->	
-	<div class="whiteblock libblock"><a href="https://sourceforge.net/p/latex-macros-packages/_list/git">
-		<div class="imagedemo">
-		<img width="125px" src="imagenes/latex-macros-packages.png"/>
-		</div>
-		<b>Theorem</b>
-			texto texto      
-		</a>   
-	</div>
-	<!-- *********************************************************************** -->	
-	<div class="whiteblock libblock"><a href="https://sourceforge.net/p/latex-macros-packages/_list/git">
-		<div class="imagedemo">
-		<img width="125px" src="imagenes/latex-macros-packages.png"/>
-		</div>
+	<div class="degradeblock libblock"><a target="_blank" href="env-enumerate/env-enumerate.php">
+		<div class="itemtitle">
 		<b>Enumerate</b>
-			texto texto      
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/env-enumerate.png"/>
+		</div>
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="whiteblock libblock"><a href="https://sourceforge.net/p/latex-macros-packages/_list/git">
-		<div class="imagedemo">
-		<img width="125px" src="imagenes/latex-macros-packages.png"/>
+	<div class="degradeblock libblock"><a target="_blank" href="env-itemize/env-itemize.php">
+		<div class="itemtitle">
+		<b>Itemize</b>
 		</div>
-		<b>Item</b>
-			texto texto      
-		</a>   
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/env-itemize.png"/>
+		</div>
+		</a>
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="whiteblock libblock"><a href="https://sourceforge.net/p/latex-macros-packages/_list/git">
-		<div class="imagedemo">
-		<img width="125px" src="imagenes/latex-macros-packages.png"/>
-		</div>
-		<b>Equation Box</b>
-			texto texto      
-		</a>   
-	</div>
-	<!-- *********************************************************************** -->	
-	<div class="whiteblock libblock"><a href="https://sourceforge.net/p/latex-macros-packages/_list/git">
-		<div class="imagedemo">
-		<img width="125px" src="imagenes/latex-macros-packages.png"/>
-		</div>
+	<div class="degradeblock libblock"><a target="_blank" href="env-citationbox/env-citationbox.php">
+		<div class="itemtitle">
 		<b>Citation Box</b>
-			texto texto      
-		</a>   
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/env-citationbox.png"/>
+		</div>
+		</a>
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="whiteblock libblock"><a href="https://sourceforge.net/p/latex-macros-packages/_list/git">
-		<div class="imagedemo">
-		<img width="125px" src="imagenes/latex-macros-packages.png"/>
-		</div>
+	<div class="degradeblock libblock"><a target="_blank" href="env-elaborationbox/env-elaborationbox.php">
+		<div class="itemtitle">
 		<b>Elaboration Box</b>
-			texto texto      
-		</a>   
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/env-elaborationbox.png"/>
+		</div>
+		</a>
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="whiteblock libblock"><a href="https://sourceforge.net/p/latex-macros-packages/_list/git">
-		<div class="imagedemo">
-		<img width="125px" src="imagenes/latex-macros-packages.png"/>
+	<div class="degradeblock libblock"><a target="_blank" href="env-equationbox/env-equationbox.php">
+		<div class="itemtitle">
+		<b>Equation Box</b>
 		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/env-equationbox.png"/>
+		</div>
+		</a>
+	</div>
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="env-informationbox/env-informationbox.php">
+		<div class="itemtitle">
 		<b>Information Box</b>
-			texto texto      
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/env-informationbox.png"/>
+		</div>
+		</a>
+	</div>
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="env-notebox/env-notebox.php">
+		<div class="itemtitle">
+		<b>Note Box</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/env-notebox.png"/>
+		</div>
+		</a>
+	</div>
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="env-phrasebox/env-phrasebox.php">
+		<div class="itemtitle">
+		<b>Phrase Box</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/env-phrasebox.png"/>
+		</div>
+		</a>
+	</div>
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="env-theorem/env-theorem.php">
+		<div class="itemtitle">
+		<b>Theorems</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/env-theorem.png"/>
+		</div>
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->
@@ -124,7 +151,7 @@
 	</div>
 
 	<?php 
-	include 'footer.php';
+	include 'include/footer.php';
 	?>
 
 </body>

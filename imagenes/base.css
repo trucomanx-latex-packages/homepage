@@ -8,9 +8,6 @@ body {
   background: #E0E0E0; background: #E0E0E0 -webkit-gradient(linear, left top, left 150%, from(#66816e), to(#E0E0E0));
 }
 
-.gradient2 {
-  background: #F5EED4; background: #F5EED4 -webkit-gradient(linear, left top, left 150%, from(#F5EED4), to(#C5BE94));
-}
 
 .round {
   border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px;
@@ -25,7 +22,7 @@ body {
 
 .header {
   border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px;
-  padding: 5px;
+  padding: 7px;
   margin: 0.25%;
   padding-left: 10px;
   overflow: hidden;
@@ -64,7 +61,7 @@ body {
 
 .promo-area img {
   /*margin-left: 40px;*/
-  margin-right: 40px;
+  /*margin-right: 40px;*/
 }
 
 .promo-area h2 {
@@ -93,28 +90,7 @@ body {
   vertical-align: middle;
 }
 
-.contentinline {
-  border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px;
-  vertical-align: top;
-  width: 30.8%;
-  padding: 5px;
-  margin: 0.25%;
-  padding-left: 10px;
-  padding-right: 10px;
-  display: inline-block;
-}
 
-.contentinlineX {
-  border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px;
-  vertical-align: top;
-  /*width: 72.0%;*/
-  padding: 5px;
-  margin: 0.25%;
-  padding-left: 10px;
-  padding-right: 10px;
-  display: inline-block;
-  background: #FFFFFF;
-}
 .content {
   border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px;
   padding: 5px;
@@ -139,7 +115,7 @@ body {
 }
 
 .box .services img {
-  margin-right: 5px;
+  /*margin-right: 5px;*/
   vertical-align: bottom;
 }
 
@@ -156,7 +132,7 @@ body {
 }
 
 .text {
-  width: 80%;
+  width: 90%;
   padding-left: 10%;
 }
 
@@ -186,12 +162,30 @@ pre, code {
   color: black;
 }
 
-.whiteblock {
+.degradeblock {
   border-radius: 20px; -webkit-border-radius: 20px; -moz-border-radius: 20px;
   background: #FFFFFF; background: #FFFFFF -webkit-gradient(linear, left top, left 280%, from(#FFFFFF), to(#7C896F));
   color: black;
 }
 
+.whiteblock {
+  border-radius: 20px; -webkit-border-radius: 20px; -moz-border-radius: 20px;
+  background: #FFFFFF; 
+  color: black;
+  width: 70%;
+  float: right;
+}
+
+.whiteblock img{
+    width: 96%;
+    margin:0px;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 2%;
+    padding-right: 2%;
+    float: none;
+}
+   
 body {counter-reset:section;}
 .s1 {counter-reset:subsection;}
 .s1:before {
@@ -210,45 +204,43 @@ body {counter-reset:section;}
 
 
 .libblock {
-  width: 440px;
-  padding: 10px;
+  width: 200px;
+  padding: 0px;
   margin: 5px;
-  /*padding-right: 10px;*/
-  display: inline-block;
-  float: left;
+  float: left;/*es posible apliar como bloques gravedad a la izquierda*/
   text-align: justify;
 }
 
 .libblock a {
   text-decoration: none;
   color: black;
-  /*font-weight: bold;*/
-  display: inline-block;
-  /*text-shadow: 1px 1px 5px gray;*/
 }
 
-.libblock img {
-  float: left;
-  margin: 0px;
-  padding: 0px;
-  padding-right: 15px;
-  display: inline-block;
-  vertical-align: middle;
-}
-
-.imagedemo{
-height:125px; 
-width:125px; 
-  float: left;
-  margin: 0px;
-  padding: 0px;
-  padding-right: 15px;
-  display: inline-block;
-  vertical-align: middle;
-}
 
 table, th, td {
   vertical-align: top;
     /*border: 1px solid black;*/
 }
 
+.itemtitle {
+width: 80%;
+height:2.5em;
+  text-align: center;
+   left: 0;
+   right: 0;
+   margin: auto;
+  /*vertical-align: middle;*/
+}
+
+.imagedemo{
+  border-radius: 20px; -webkit-border-radius: 20px; -moz-border-radius: 20px;
+  background: #FFFFFF; 
+  padding:5%;
+  width: 70%;
+   left: 0;
+   right: 0;
+   margin-bottom:1em;
+   margin-left: auto;
+   margin-right: auto;
+  /*vertical-align: middle;*/
+}
