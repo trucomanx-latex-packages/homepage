@@ -42,7 +42,7 @@ include '../include/header-sub.php';
 	<h2>env-phrasebox-simple</h2>
 	<p>
 		Download the latex package of env-phrasebox-simple from
-		<a href="https://sourceforge.net/p/latex-macros-packages/env-phrasebox-simple/ci/main/tree/">
+		<a href="https://sourceforge.net/p/latex-macros-packages/env-phrasebox-simple/ci/master/tree/">
 		this link:<br>
 		<div class="whiteblock">
 		<img src="https://sourceforge.net/p/latex-macros-packages/env-phrasebox-simple/ci/master/tree/screenshot.png?format=raw"/>
