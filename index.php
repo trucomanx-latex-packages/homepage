@@ -146,6 +146,16 @@
 		</div>
 		</a>   
 	</div>
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="env-highlightbox/env-highlightbox.php">
+		<div class="itemtitle">
+		<b>Highlightbox</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/env-highlightbox.png"/>
+		</div>
+		</a>   
+	</div>
 	<!-- *********************************************************************** -->
 	
 	</div>
