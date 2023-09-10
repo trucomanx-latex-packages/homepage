@@ -107,6 +107,16 @@
 		</a>
 	</div>
 	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="env-highlightbox/env-highlightbox.php">
+		<div class="itemtitle">
+		<b>Highlightbox</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/env-highlightbox.png"/>
+		</div>
+		</a>   
+	</div>
+	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="env-informationbox/env-informationbox.php">
 		<div class="itemtitle">
 		<b>Information Box</b>
@@ -147,12 +157,12 @@
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-highlightbox/env-highlightbox.php">
+	<div class="degradeblock libblock"><a target="_blank" href="env-boxbox/env-boxbox.php">
 		<div class="itemtitle">
-		<b>Highlightbox</b>
+		<b>Boxbox</b>
 		</div>
 		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/env-highlightbox.png"/>
+		<img width="100%" src="imagenes/LOGOS/env-boxbox.png"/>
 		</div>
 		</a>   
 	</div>
