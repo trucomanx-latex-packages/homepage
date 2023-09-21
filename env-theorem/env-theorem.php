@@ -13,19 +13,6 @@ include '../include/header-sub.php';
 
 <!-- *********************************************************************** -->
 <div class="header libgradient">
-	<h2>env-theorem-pictbox</h2>
-	<p>
-		Download the latex package of env-theorem-pictbox from
-		<a href="https://sourceforge.net/p/latex-macros-packages/env-theorem-pictbox/ci/main/tree/">
-		this link:<br>
-		<div class="whiteblock">
-		<img src="https://sourceforge.net/p/latex-macros-packages/env-theorem-pictbox/ci/main/tree/screenshot.png?format=raw"/>
-		</div>
-		</a> 
-	</p>
-</div>
-<!-- *********************************************************************** -->
-<div class="header libgradient">
 	<h2>env-theorem-pictlin</h2>
 	<p>
 		Download the latex package of env-theorem-pictlin from
