@@ -64,6 +64,32 @@ include '../include/header-sub.php';
 	</p>
 </div>
 <!-- *********************************************************************** -->
+<div class="header libgradient">
+	<h2>env-box-simpleimg</h2>
+	<p>
+		Download the latex package of env-box-simpleimg from
+		<a href="https://sourceforge.net/p/latex-macros-packages/env-box-simpleimg/ci/master/tree/">
+		this link:<br>
+		<div class="whiteblock">
+		<img src="https://sourceforge.net/p/latex-macros-packages/env-box-simpleimg/ci/master/tree/screenshot.png?format=raw"/>
+		</div>
+		</a> 
+	</p>
+</div>
+<!-- *********************************************************************** -->
+<div class="header libgradient">
+	<h2>env-box-simplebox</h2>
+	<p>
+		Download the latex package of env-box-simplebox from
+		<a href="https://sourceforge.net/p/latex-macros-packages/env-box-simplebox/ci/master/tree/">
+		this link:<br>
+		<div class="whiteblock">
+		<img src="https://sourceforge.net/p/latex-macros-packages/env-box-simplebox/ci/master/tree/screenshot.png?format=raw"/>
+		</div>
+		</a> 
+	</p>
+</div>
+<!-- *********************************************************************** -->
 
 <?php 
 include '../include/footer-sub.php';
