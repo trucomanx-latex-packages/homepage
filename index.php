@@ -159,7 +159,7 @@
 	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="env-boxbox/env-boxbox.php">
 		<div class="itemtitle">
-		<b>Boxbox</b>
+		<b>Envbox</b>
 		</div>
 		<div class="imagedemo">
 		<img width="100%" src="imagenes/LOGOS/env-boxbox.png"/>
