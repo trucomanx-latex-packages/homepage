@@ -117,16 +117,6 @@
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-informationbox/env-informationbox.php">
-		<div class="itemtitle">
-		<b>Information Box</b>
-		</div>
-		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/env-informationbox.png"/>
-		</div>
-		</a>
-	</div>
-	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="env-notebox/env-notebox.php">
 		<div class="itemtitle">
 		<b>Note Box</b>

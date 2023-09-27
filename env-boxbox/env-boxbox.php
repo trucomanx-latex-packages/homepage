@@ -11,6 +11,11 @@ ini_set('default_charset','UTF8');
 include '../include/header-sub.php';
 ?>
 
+<p>
+All theorem family like: Theorem, Lemma, Definition, Corollary, Proof, etc.
+All the enviroments in this section <b>don't have</b> the possibility of to hide the PreTitle and counter.
+</p>
+
 <!-- *********************************************************************** -->
 <div class="header libgradient">
 	<h2>env-box-simple</h2>
@@ -20,19 +25,6 @@ include '../include/header-sub.php';
 		this link:<br>
 		<div class="whiteblock">
 		<img src="https://sourceforge.net/p/latex-macros-packages/env-box-simple/ci/master/tree/screenshot.png?format=raw"/>
-		</div>
-		</a> 
-	</p>
-</div>
-<!-- *********************************************************************** -->
-<div class="header libgradient">
-	<h2>env-box-pictbox</h2>
-	<p>
-		Download the latex package of env-box-pictbox from
-		<a href="https://sourceforge.net/p/latex-macros-packages/env-box-pictbox/ci/master/tree/">
-		this link:<br>
-		<div class="whiteblock">
-		<img src="https://sourceforge.net/p/latex-macros-packages/env-box-pictbox/ci/master/tree/screenshot.png?format=raw"/>
 		</div>
 		</a> 
 	</p>
