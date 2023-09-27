@@ -147,22 +147,22 @@
 		</a>
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-theorem/env-theorem.php">
+	<div class="degradeblock libblock"><a target="_blank" href="env-boxbox/env-boxbox.php">
 		<div class="itemtitle">
-		<b>Theorems</b>
+		<b>Enviromment box</b>
 		</div>
 		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/env-theorem.png"/>
+		<img width="100%" src="imagenes/LOGOS/env-boxbox.png"/>
 		</div>
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-boxbox/env-boxbox.php">
+	<div class="degradeblock libblock"><a target="_blank" href="env-datbox/env-datbox.php">
 		<div class="itemtitle">
-		<b>Envbox</b>
+		<b>Data box</b>
 		</div>
 		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/env-boxbox.png"/>
+		<img width="100%" src="imagenes/LOGOS/env-datbox.png"/>
 		</div>
 		</a>   
 	</div>
