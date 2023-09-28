@@ -77,39 +77,9 @@
 		</a>
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-citationbox/env-citationbox.php">
-		<div class="itemtitle">
-		<b>Citation Box</b>
-		</div>
-		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/env-citationbox.png"/>
-		</div>
-		</a>
-	</div>
-	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-elaborationbox/env-elaborationbox.php">
-		<div class="itemtitle">
-		<b>Elaboration Box</b>
-		</div>
-		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/env-elaborationbox.png"/>
-		</div>
-		</a>
-	</div>
-	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-equationbox/env-equationbox.php">
-		<div class="itemtitle">
-		<b>Equation Box</b>
-		</div>
-		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/env-equationbox.png"/>
-		</div>
-		</a>
-	</div>
-	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="env-highlightbox/env-highlightbox.php">
 		<div class="itemtitle">
-		<b>Highlightbox</b>
+		<b>Highlight box</b>
 		</div>
 		<div class="imagedemo">
 		<img width="100%" src="imagenes/LOGOS/env-highlightbox.png"/>

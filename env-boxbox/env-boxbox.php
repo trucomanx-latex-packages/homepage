@@ -11,10 +11,13 @@ ini_set('default_charset','UTF8');
 include '../include/header-sub.php';
 ?>
 
+	<div class="header gradient">
+	<div class="promo-area">
 <p>
 All theorem family like: Theorem, Lemma, Definition, Corollary, Proof, etc.
 All the enviroments in this section <b>don't have</b> the possibility of to hide the PreTitle and counter.
 </p>
+	</div>
 
 <!-- *********************************************************************** -->
 <div class="header libgradient">
