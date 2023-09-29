@@ -87,16 +87,6 @@
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-notebox/env-notebox.php">
-		<div class="itemtitle">
-		<b>Note Box</b>
-		</div>
-		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/env-notebox.png"/>
-		</div>
-		</a>
-	</div>
-	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="env-phrasebox/env-phrasebox.php">
 		<div class="itemtitle">
 		<b>Phrase Box</b>

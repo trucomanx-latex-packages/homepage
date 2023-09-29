@@ -47,6 +47,19 @@ but all the tcolorbox parameters can be modified.
 	</p>
 </div>
 <!-- *********************************************************************** -->
+<div class="header libgradient">
+	<h2>env-highlight-brokenpage</h2>
+	<p>
+		Download the latex package of env-highlightbox-brokenpage from
+		<a href="https://sourceforge.net/p/latex-macros-packages/env-highlight-brokenpage/ci/master/tree/">
+		this link:<br>
+		<div class="whiteblock">
+		<img src="https://sourceforge.net/p/latex-macros-packages/env-highlight-brokenpage/ci/master/tree/screenshot.png?format=raw"/>
+		</div>
+		</a> 
+	</p>
+</div>
+<!-- *********************************************************************** -->
 
 <?php 
 include '../include/footer-sub.php';
