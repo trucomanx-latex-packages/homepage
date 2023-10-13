@@ -1,0 +1,34 @@
+/* Estilo para comandos LaTeX */
+.hljs-latex-env-keyword {
+    color: blue;
+    font-weight: bold;
+}
+
+.hljs-latex-cmd-keyword {
+    color: DarkMagenta;
+    font-weight: bold;
+}
+
+
+.hljs-latex-extra-cmd-keyword {
+    color: DarkRed;
+    font-weight: bold;
+}
+
+.hljs-latex-comment {
+    color: DarkGreen;
+    /* font-weight: bold;*/
+}
+
+.hljs-latex-op-keyword {
+    color: blue;
+    font-weight: bold;
+}
+
+.hljs-latex-number-keyword {
+    color: DarkGreen;
+    font-weight: bold;
+}
+code {
+    font-size: 18;
+}

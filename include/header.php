@@ -3,6 +3,7 @@
       
       <div class="top-nav darkblock">
         <a href="http://latex-macros-packages.sf.net/">Home</a> |
+        <a href="http://latex-macros-packages.sf.net/examples/examples.php">Examples</a> |
         <a href="http://sourceforge.net/projects/latex-macros-packages/">Develop</a> |
         <a href="https://sourceforge.net/p/latex-macros-packages/_list/git">Download</a> |                
         <a href="https://sourceforge.net/p/latex-macros-packages/_members/">Contact</a>

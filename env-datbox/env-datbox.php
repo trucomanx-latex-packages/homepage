@@ -22,6 +22,19 @@ and, consequently, the counter.
 	</div>
 <!-- *********************************************************************** -->
 <div class="header libgradient">
+	<h2>env-box-simple</h2>
+	<p>
+		Download the latex package of env-box-simple from
+		<a href="https://sourceforge.net/p/latex-macros-packages/env-box-simple/ci/master/tree/">
+		this link:<br>
+		<div class="whiteblock">
+		<img src="https://sourceforge.net/p/latex-macros-packages/env-box-simple/ci/master/tree/screenshot.png?format=raw"/>
+		</div>
+		</a> 
+	</p>
+</div>
+<!-- *********************************************************************** -->
+<div class="header libgradient">
 	<h2>env-box-formaltab</h2>
 	<p>
 		Download the latex package of env-box-formaltab from

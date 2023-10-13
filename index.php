@@ -37,6 +37,16 @@
 		</a>
 	</div>
 	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="chapter-format/chapter-format.php">
+		<div class="itemtitle">
+		<b>Separator Rules</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/chapter-format.png"/>
+		</div>
+		</a>   
+	</div>
+	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="catalographic-card/catalographic-card.php">
 		<div class="itemtitle">
 		<b>Catalographic Cards</b>

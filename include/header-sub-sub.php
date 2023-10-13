@@ -1,5 +1,5 @@
 	<div class="header gradient">
-      <img width="4%" src="../imagenes/latex-macros-packages.png">
+      <img width="4%" src="../../imagenes/latex-macros-packages.png">
       
       <div class="top-nav darkblock">
         <a href="http://latex-macros-packages.sf.net/">Home</a> |

@@ -19,7 +19,7 @@ All the enviroments in this section <b>don't have</b> counter and title,
 but all the tcolorbox parameters can be modified.
 </p>
 	</div>
-
+	</div>
 <!-- *********************************************************************** -->
 <div class="header libgradient">
 	<h2>env-highlight-simplezigzag</h2>
@@ -55,6 +55,71 @@ but all the tcolorbox parameters can be modified.
 		this link:<br>
 		<div class="whiteblock">
 		<img src="https://sourceforge.net/p/latex-macros-packages/env-highlight-brokenpage/ci/master/tree/screenshot.png?format=raw"/>
+		</div>
+		</a> 
+	</p>
+</div>
+<!-- *********************************************************************** -->
+<div class="header libgradient">
+	<h2>env-highlight-foldedcorner</h2>
+	<p>
+		Download the latex package of env-highlightbox-foldedcorner from
+		<a href="https://sourceforge.net/p/latex-macros-packages/env-highlight-foldedcorner/ci/master/tree/">
+		this link:<br>
+		<div class="whiteblock">
+		<img src="https://sourceforge.net/p/latex-macros-packages/env-highlight-foldedcorner/ci/master/tree/screenshot.png?format=raw"/>
+		</div>
+		</a> 
+	</p>
+</div>
+<!-- *********************************************************************** -->
+<div class="header libgradient">
+	<h2>env-highlight-simpleimg</h2>
+	<p>
+		Download the latex package of env-highlightbox-simpleimg from
+		<a href="https://sourceforge.net/p/latex-macros-packages/env-highlight-simpleimg/ci/master/tree/">
+		this link:<br>
+		<div class="whiteblock">
+		<img src="https://sourceforge.net/p/latex-macros-packages/env-highlight-simpleimg/ci/master/tree/screenshot.png?format=raw"/>
+		</div>
+		</a> 
+	</p>
+</div>
+<!-- *********************************************************************** -->
+<div class="header libgradient">
+	<h2>env-highlight-tornoff</h2>
+	<p>
+		Download the latex package of env-highlightbox-tornoff from
+		<a href="https://sourceforge.net/p/latex-macros-packages/env-highlight-tornoff/ci/master/tree/">
+		this link:<br>
+		<div class="whiteblock">
+		<img src="https://sourceforge.net/p/latex-macros-packages/env-highlight-tornoff/ci/master/tree/screenshot.png?format=raw"/>
+		</div>
+		</a> 
+	</p>
+</div>
+<!-- *********************************************************************** -->
+<div class="header libgradient">
+	<h2>env-highlight-simplenote</h2>
+	<p>
+		Download the latex package of env-highlightbox-simplenote from
+		<a href="https://sourceforge.net/p/latex-macros-packages/env-highlight-simplenote/ci/master/tree/">
+		this link:<br>
+		<div class="whiteblock">
+		<img src="https://sourceforge.net/p/latex-macros-packages/env-highlight-simplenote/ci/master/tree/screenshot.png?format=raw"/>
+		</div>
+		</a> 
+	</p>
+</div>
+<!-- *********************************************************************** -->
+<div class="header libgradient">
+	<h2>env-highlight-multipleimg</h2>
+	<p>
+		Download the latex package of env-highlightbox-multipleimg from
+		<a href="https://sourceforge.net/p/latex-macros-packages/env-highlight-multipleimg/ci/master/tree/">
+		this link:<br>
+		<div class="whiteblock">
+		<img src="https://sourceforge.net/p/latex-macros-packages/env-highlight-multipleimg/ci/master/tree/screenshot.png?format=raw"/>
 		</div>
 		</a> 
 	</p>

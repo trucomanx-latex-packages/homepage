@@ -18,20 +18,8 @@ All theorem family like: Theorem, Lemma, Definition, Corollary, Proof, etc.
 All the enviroments in this section <b>don't have</b> the possibility of to hide the PreTitle and counter.
 </p>
 	</div>
+	</div>
 
-<!-- *********************************************************************** -->
-<div class="header libgradient">
-	<h2>env-box-simple</h2>
-	<p>
-		Download the latex package of env-box-simple from
-		<a href="https://sourceforge.net/p/latex-macros-packages/env-box-simple/ci/master/tree/">
-		this link:<br>
-		<div class="whiteblock">
-		<img src="https://sourceforge.net/p/latex-macros-packages/env-box-simple/ci/master/tree/screenshot.png?format=raw"/>
-		</div>
-		</a> 
-	</p>
-</div>
 <!-- *********************************************************************** -->
 <div class="header libgradient">
 	<h2>env-box-oddtab</h2>
