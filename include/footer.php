@@ -12,7 +12,7 @@
 		<h3>Social</h3>
 		<div class="box-content">
 		  <ul class="services">
-			<li><a href="https://gnusocial.net/trucomanx"><img src="imagenes/gnusocial.png">GnuSocial</a></li>
+			<li><a href="https://x.com/trucomanx"><img src="imagenes/X_logo.jpg" width="25">X</a></li>
 		  </ul>
 		  <ul class="services">
 			<li><a href="https://diasp.org/people/68e40bb7f3f6d792"><img src="imagenes/diaspora+logo.png">Diaspora</a></li>
