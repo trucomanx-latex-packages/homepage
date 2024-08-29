@@ -37,6 +37,16 @@
 		</a>
 	</div>
 	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="background-images/background-images.php">
+		<div class="itemtitle">
+		<b>Background Images</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/background-images.png"/>
+		</div>
+		</a>
+	</div>
+	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="chapter-format/chapter-format.php">
 		<div class="itemtitle">
 		<b>Chapter format</b>
@@ -125,6 +135,16 @@
 		<img width="100%" src="imagenes/LOGOS/env-datbox.png"/>
 		</div>
 		</a>   
+	</div>
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="wrappers/wrappers.php">
+		<div class="itemtitle">
+		<b>Wrappers</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/wrappers.png"/>
+		</div>
+		</a>
 	</div>
 	<!-- *********************************************************************** -->
 	
