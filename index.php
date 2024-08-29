@@ -137,12 +137,12 @@
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="wrappers/wrappers.php">
+	<div class="degradeblock libblock"><a target="_blank" href="wrapper/wrapper.php">
 		<div class="itemtitle">
-		<b>Wrappers</b>
+		<b>Wrapper</b>
 		</div>
 		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/wrappers.png"/>
+		<img width="100%" src="imagenes/LOGOS/wrapper.png"/>
 		</div>
 		</a>
 	</div>
