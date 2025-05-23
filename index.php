@@ -23,33 +23,13 @@
 	</div>
 
 		
-<b><h2>Macros:</h2></b>
+<b><h2>Macro titles:</h2></b>
 <div class="header libgradient">
 	
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="math-macros/math-macros.php">
-		<div class="itemtitle">
-		<b>Mathematical Macros</b>
-		</div>
-		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/math-macros.png"/>
-		</div>
-		</a>
-	</div>
-	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="background-images/background-images.php">
-		<div class="itemtitle">
-		<b>Background Images</b>
-		</div>
-		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/background-images.png"/>
-		</div>
-		</a>
-	</div>
-	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="chapter-format/chapter-format.php">
 		<div class="itemtitle">
-		<b>Chapter format</b>
+		<b>\chapter</b>
 		</div>
 		<div class="imagedemo">
 		<img width="100%" src="imagenes/LOGOS/chapter-format.png"/>
@@ -59,20 +39,10 @@
 	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="section-format/section-format.php">
 		<div class="itemtitle">
-		<b>Section format</b>
+		<b>\section</b>
 		</div>
 		<div class="imagedemo">
 		<img width="100%" src="imagenes/LOGOS/section-format.png"/>
-		</div>
-		</a>   
-	</div>
-	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="catalographic-card/catalographic-card.php">
-		<div class="itemtitle">
-		<b>Catalographic Cards</b>
-		</div>
-		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/catalographic-card.png"/>
 		</div>
 		</a>   
 	</div>
@@ -89,7 +59,7 @@
 	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="ornamental-break/ornamental-break.php">
 		<div class="itemtitle">
-		<b>Ornamental Break</b>
+		<b>\OrnamentalBreak</b>
 		</div>
 		<div class="imagedemo">
 		<img width="100%" src="imagenes/LOGOS/ornamental-break.png"/>
@@ -97,25 +67,12 @@
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-enumerate/env-enumerate.php">
-		<div class="itemtitle">
-		<b>Enumerate</b>
-		</div>
-		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/env-enumerate.png"/>
-		</div>
-		</a>   
-	</div>
-	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-itemize/env-itemize.php">
-		<div class="itemtitle">
-		<b>Itemize</b>
-		</div>
-		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/env-itemize.png"/>
-		</div>
-		</a>
-	</div>
+</div>
+
+
+<b><h2>Macro boxs:</h2></b>
+<div class="header libgradient">
+
 	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="env-highlightbox/env-highlightbox.php">
 		<div class="itemtitle">
@@ -153,6 +110,68 @@
 		</div>
 		<div class="imagedemo">
 		<img width="100%" src="imagenes/LOGOS/env-datbox.png"/>
+		</div>
+		</a>   
+	</div>
+	<!-- *********************************************************************** -->	
+
+</div>
+
+
+<b><h2>Macro items:</h2></b>
+<div class="header libgradient">
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="env-enumerate/env-enumerate.php">
+		<div class="itemtitle">
+		<b>Enumerate</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/env-enumerate.png"/>
+		</div>
+		</a>   
+	</div>
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="env-itemize/env-itemize.php">
+		<div class="itemtitle">
+		<b>Itemize</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/env-itemize.png"/>
+		</div>
+		</a>
+	</div>
+</div>
+
+
+<b><h2>Macros:</h2></b>
+<div class="header libgradient">
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="math-macros/math-macros.php">
+		<div class="itemtitle">
+		<b>Mathematical Macros</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/math-macros.png"/>
+		</div>
+		</a>
+	</div>
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="background-images/background-images.php">
+		<div class="itemtitle">
+		<b>Background Images</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/background-images.png"/>
+		</div>
+		</a>
+	</div>
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="catalographic-card/catalographic-card.php">
+		<div class="itemtitle">
+		<b>Catalographic Cards</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/catalographic-card.png"/>
 		</div>
 		</a>   
 	</div>

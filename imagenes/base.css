@@ -1,7 +1,7 @@
 body {
   font-family: bitstream vera sans, dejavu sans, verdana, sans-serif;
   background: #FFFFFF;/*#E7E7E7;*/
-  font-size: 14pt;
+  font-size: 16pt;
 }
 
 .gradient {
@@ -55,7 +55,7 @@ body {
 }
 
 .promo-area p {
-  font-size: 14pt;/*Texto principal*/
+  font-size: 16pt;/*Texto principal*/
   text-align: justify;
 }
 
@@ -204,7 +204,7 @@ body {counter-reset:section;}
 
 
 .libblock {
-  width: 200px;
+  width: 400px;
   padding: 0px;
   margin: 5px;
   float: left;/*es posible apliar como bloques gravedad a la izquierda*/
