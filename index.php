@@ -23,8 +23,8 @@
 	</div>
 
 		
-	<b><h2>Macros:</h2></b>
-	<div class="header libgradient">
+<b><h2>Macros:</h2></b>
+<div class="header libgradient">
 	
 	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="math-macros/math-macros.php">
@@ -168,7 +168,24 @@
 	</div>
 	<!-- *********************************************************************** -->
 	
+</div>
+
+<b><h2>Macros Lua:</h2></b>
+<div class="header libgradient">
+	
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="luapoemformats/luapoemformats.php">
+		<div class="itemtitle">
+		<b>Lua Poem Formats</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/luapoemformats.png"/>
+		</div>
+		</a>
 	</div>
+	<!-- *********************************************************************** -->
+
+</div>
 
 	<?php 
 	include 'include/footer.php';
