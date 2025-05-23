@@ -60,6 +60,19 @@ All the chapter formats.
 </div>
 <!-- *********************************************************************** -->
 <div class="header libgradient">
+	<h2>chapter-format-rightbar-text</h2>
+	<p>
+		Download the latex package of chapter-format-rightbar-text from
+		<a href="https://sourceforge.net/p/latex-macros-packages/chapter-format-rightbar-text/ci/master/tree/">
+		this link:<br>
+		<div class="whiteblock">
+		<img src="https://sourceforge.net/p/latex-macros-packages/chapter-format-rightbar-text/ci/master/tree/screenshot.png?format=raw"/>
+		</div>
+		</a> 
+	</p>
+</div>
+<!-- *********************************************************************** -->
+<div class="header libgradient">
 	<h2>chapter-format-leftrule</h2>
 	<p>
 		Download the latex package of chapter-format-leftrule from

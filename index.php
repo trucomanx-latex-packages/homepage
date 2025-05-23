@@ -57,6 +57,16 @@
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="section-format/section-format.php">
+		<div class="itemtitle">
+		<b>Section format</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/section-format.png"/>
+		</div>
+		</a>   
+	</div>
+	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="catalographic-card/catalographic-card.php">
 		<div class="itemtitle">
 		<b>Catalographic Cards</b>
@@ -73,6 +83,16 @@
 		</div>
 		<div class="imagedemo">
 		<img width="100%" src="imagenes/LOGOS/separator-rule.png"/>
+		</div>
+		</a>   
+	</div>
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="ornamental-break/ornamental-break.php">
+		<div class="itemtitle">
+		<b>Ornamental Break</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/ornamental-break.png"/>
 		</div>
 		</a>   
 	</div>
