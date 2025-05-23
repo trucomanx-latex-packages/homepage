@@ -204,7 +204,7 @@ body {counter-reset:section;}
 
 
 .libblock {
-  width: 400px;
+  width: 300px;
   padding: 0px;
   margin: 5px;
   float: left;/*es posible apliar como bloques gravedad a la izquierda*/
