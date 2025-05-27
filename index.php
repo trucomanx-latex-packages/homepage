@@ -23,7 +23,7 @@
 	</div>
 
 		
-<b><h2>Macro titles:</h2></b>
+<b><h2>Packages - titles:</h2></b>
 <div class="header libgradient">
 	
 	<!-- *********************************************************************** -->	
@@ -70,7 +70,7 @@
 </div>
 
 
-<b><h2>Macro boxs:</h2></b>
+<b><h2>Packages - boxs:</h2></b>
 <div class="header libgradient">
 
 	<!-- *********************************************************************** -->	
@@ -118,7 +118,7 @@
 </div>
 
 
-<b><h2>Macro items:</h2></b>
+<b><h2>Packages - items:</h2></b>
 <div class="header libgradient">
 	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="env-enumerate/env-enumerate.php">
@@ -143,7 +143,23 @@
 </div>
 
 
-<b><h2>Macros:</h2></b>
+<b><h2>Packages:</h2></b>
+<div class="header libgradient">
+	<!-- *********************************************************************** -->	
+	<div class="degradeblock libblock"><a target="_blank" href="wrapper/wrapper.php">
+		<div class="itemtitle">
+		<b>Wrapper</b>
+		</div>
+		<div class="imagedemo">
+		<img width="100%" src="imagenes/LOGOS/wrapper.png"/>
+		</div>
+		</a>
+	</div>
+	<!-- *********************************************************************** -->	
+</div>
+
+
+<b><h2>Packages:</h2></b>
 <div class="header libgradient">
 	<!-- *********************************************************************** -->	
 	<div class="degradeblock libblock"><a target="_blank" href="math-macros/math-macros.php">
@@ -175,21 +191,11 @@
 		</div>
 		</a>   
 	</div>
-	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="wrapper/wrapper.php">
-		<div class="itemtitle">
-		<b>Wrapper</b>
-		</div>
-		<div class="imagedemo">
-		<img width="100%" src="imagenes/LOGOS/wrapper.png"/>
-		</div>
-		</a>
-	</div>
 	<!-- *********************************************************************** -->
 	
 </div>
 
-<b><h2>Macros Lua:</h2></b>
+<b><h2>Packages - Lua:</h2></b>
 <div class="header libgradient">
 	
 	<!-- *********************************************************************** -->	
