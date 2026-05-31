@@ -1,0 +1,70 @@
+<html>
+<head>
+    <!-- Substitua o PHP por um fetch para o head -->
+    <script>
+        fetch('include/head.html')
+            .then(response => response.text())
+            .then(data => {
+                document.head.innerHTML += data;
+            });
+    </script>
+    <!-- Substitua o PHP por um fetch para o head -->
+    <script>
+        fetch('examples/latex-highlight.html')
+            .then(response => response.text())
+            .then(data => {
+                document.head.innerHTML += data;
+            });
+    </script>
+</head>
+<body>
+
+    <!-- Header carregado via JS -->
+    <div id="header-container"></div>
+    <script>
+        fetch('include/header.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('header-container').innerHTML = data;
+            });
+    </script>
+
+<h1>src/example.tex</h1>
+<pre><code id="latex-code" class="latex"></code></pre>
+<script>
+fetch('src/example.tex')
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('Arquivo não encontrado');
+    }
+    return response.text();
+  })
+  .then(text => {
+    document.getElementById('latex-code').textContent = text;
+  })
+  .catch(error => {
+    document.getElementById('latex-code').textContent = error.message;
+  });
+</script>
+</code></pre>
+
+<div class="header libgradient">
+	<p>
+		<div class="whiteblock">
+		<a href="src.zip"><img src="example.png"/></a>
+		</div>
+	</p>
+</div>
+
+    <!-- Footer carregado via JS -->
+    <div id="footer-container"></div>
+    <script>
+        fetch('include/footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('footer-container').innerHTML = data;
+            });
+    </script>
+
+</body>
+</html>
