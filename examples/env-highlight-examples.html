@@ -1,0 +1,76 @@
+<html>
+<head>
+    <!-- Substitua o PHP por um fetch para o head -->
+    <script>
+        fetch('../include/head.html')
+            .then(response => response.text())
+            .then(data => {
+                document.head.innerHTML += data;
+            });
+    </script>
+</head>
+<body>
+
+    <!-- Header carregado via JS -->
+    <div id="header-container"></div>
+    <script>
+        fetch('../include/header.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('header-container').innerHTML = data;
+            });
+    </script>
+
+    <div class="header gradient">
+    <div class="promo-area">
+<p>
+Here you can see some examples
+</p>
+    </div>
+    </div>
+        
+<!-- *********************************************************************** -->
+<div class="header libgradient">
+    <p>
+        <div class="whiteblock">
+        <a href="env-highlight-code-2/example.html"><img src="env-highlight-code-2/example.png"/></a>
+        </div>
+        </a> 
+    </p>
+</div>
+            
+<!-- *********************************************************************** -->
+<div class="header libgradient">
+    <p>
+        <div class="whiteblock">
+        <a href="env-highlight-code-1/example.html"><img src="env-highlight-code-1/example.png"/></a>
+        </div>
+        </a> 
+    </p>
+</div>
+            
+<!-- *********************************************************************** -->
+<div class="header libgradient">
+    <p>
+        <div class="whiteblock">
+        <a href="env-highlight-code-3/example.html"><img src="env-highlight-code-3/example.png"/></a>
+        </div>
+        </a> 
+    </p>
+</div>
+            
+<!-- *********************************************************************** -->
+
+    <!-- Footer carregado via JS -->
+    <div id="footer-container"></div>
+    <script>
+        fetch('../include/footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('footer-container').innerHTML = data;
+            });
+    </script>
+
+</body>
+</html>
+        

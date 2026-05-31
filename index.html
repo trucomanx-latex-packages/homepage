@@ -1,22 +1,31 @@
 <html>
 <head>
-	<?php 
-	include 'include/head.php';
-	?>
+    <!-- Substitua o PHP por um fetch para o head -->
+    <script>
+        fetch('include/head.html')
+            .then(response => response.text())
+            .then(data => {
+                document.head.innerHTML += data;
+            });
+    </script>
 </head>
 <body>
-
-	<?php
-	ini_set('default_charset','UTF8');
-	include 'include/header.php';
-	?>
+    <!-- Header carregado via JS -->
+    <div id="header-container"></div>
+    <script>
+        fetch('include/header.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('header-container').innerHTML = data;
+            });
+    </script>
 
 	<div class="header gradient">
 	<div class="promo-area">
 		<h2>LATEX-MACROS-PACKAGES</h2>
 		<p>
 			Can be downloaded many latex macro packages from the git repository of 
-			<a href="https://sourceforge.net/p/latex-macros-packages/_list/git"><b>latex-macros-packages</b></a> 
+			<a href="https://github.com/trucomanx-latex-packages"><b>latex-macros-packages</b></a> 
 			project.
 		</p> 
 	</div>
@@ -27,7 +36,7 @@
 <div class="header libgradient">
 	
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="chapter-format/chapter-format.php">
+	<div class="degradeblock libblock"><a target="_blank" href="chapter-format/chapter-format.html">
 		<div class="itemtitle">
 		<b>\chapter</b>
 		</div>
@@ -37,7 +46,7 @@
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="section-format/section-format.php">
+	<div class="degradeblock libblock"><a target="_blank" href="section-format/section-format.html">
 		<div class="itemtitle">
 		<b>\section</b>
 		</div>
@@ -47,7 +56,7 @@
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="separator-rule/separator-rule.php">
+	<div class="degradeblock libblock"><a target="_blank" href="separator-rule/separator-rule.html">
 		<div class="itemtitle">
 		<b>Separator Rules</b>
 		</div>
@@ -57,7 +66,7 @@
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="ornamental-break/ornamental-break.php">
+	<div class="degradeblock libblock"><a target="_blank" href="ornamental-break/ornamental-break.html">
 		<div class="itemtitle">
 		<b>\OrnamentalBreak</b>
 		</div>
@@ -74,7 +83,7 @@
 <div class="header libgradient">
 
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-highlightbox/env-highlightbox.php">
+	<div class="degradeblock libblock"><a target="_blank" href="env-highlightbox/env-highlightbox.html">
 		<div class="itemtitle">
 		<b>Highlight box</b>
 		</div>
@@ -84,7 +93,7 @@
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-phrasebox/env-phrasebox.php">
+	<div class="degradeblock libblock"><a target="_blank" href="env-phrasebox/env-phrasebox.html">
 		<div class="itemtitle">
 		<b>Phrase Box</b>
 		</div>
@@ -94,7 +103,7 @@
 		</a>
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-boxbox/env-boxbox.php">
+	<div class="degradeblock libblock"><a target="_blank" href="env-boxbox/env-boxbox.html">
 		<div class="itemtitle">
 		<b>Enviromment box</b>
 		</div>
@@ -104,7 +113,7 @@
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-datbox/env-datbox.php">
+	<div class="degradeblock libblock"><a target="_blank" href="env-datbox/env-datbox.html">
 		<div class="itemtitle">
 		<b>Data box</b>
 		</div>
@@ -121,7 +130,7 @@
 <b><h2>Packages - items:</h2></b>
 <div class="header libgradient">
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-enumerate/env-enumerate.php">
+	<div class="degradeblock libblock"><a target="_blank" href="env-enumerate/env-enumerate.html">
 		<div class="itemtitle">
 		<b>Enumerate</b>
 		</div>
@@ -131,7 +140,7 @@
 		</a>   
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="env-itemize/env-itemize.php">
+	<div class="degradeblock libblock"><a target="_blank" href="env-itemize/env-itemize.html">
 		<div class="itemtitle">
 		<b>Itemize</b>
 		</div>
@@ -146,7 +155,7 @@
 <b><h2>Packages:</h2></b>
 <div class="header libgradient">
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="wrapper/wrapper.php">
+	<div class="degradeblock libblock"><a target="_blank" href="wrapper/wrapper.html">
 		<div class="itemtitle">
 		<b>Wrapper</b>
 		</div>
@@ -162,7 +171,7 @@
 <b><h2>Packages:</h2></b>
 <div class="header libgradient">
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="math-macros/math-macros.php">
+	<div class="degradeblock libblock"><a target="_blank" href="math-macros/math-macros.html">
 		<div class="itemtitle">
 		<b>Mathematical Macros</b>
 		</div>
@@ -172,7 +181,7 @@
 		</a>
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="background-images/background-images.php">
+	<div class="degradeblock libblock"><a target="_blank" href="background-images/background-images.html">
 		<div class="itemtitle">
 		<b>Background Images</b>
 		</div>
@@ -182,7 +191,7 @@
 		</a>
 	</div>
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="catalographic-card/catalographic-card.php">
+	<div class="degradeblock libblock"><a target="_blank" href="catalographic-card/catalographic-card.html">
 		<div class="itemtitle">
 		<b>Catalographic Cards</b>
 		</div>
@@ -199,7 +208,7 @@
 <div class="header libgradient">
 	
 	<!-- *********************************************************************** -->	
-	<div class="degradeblock libblock"><a target="_blank" href="luapoemformats/luapoemformats.php">
+	<div class="degradeblock libblock"><a target="_blank" href="luapoemformats/luapoemformats.html">
 		<div class="itemtitle">
 		<b>Lua Poem Formats</b>
 		</div>
@@ -212,9 +221,15 @@
 
 </div>
 
-	<?php 
-	include 'include/footer.php';
-	?>
+    <!-- Footer carregado via JS -->
+    <div id="footer-container"></div>
+    <script>
+        fetch('include/footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('footer-container').innerHTML = data;
+            });
+    </script>
 
 </body>
 </html>

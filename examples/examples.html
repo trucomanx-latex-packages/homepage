@@ -1,0 +1,47 @@
+<html>
+<head>
+    <!-- Substitua o PHP por um fetch para o head -->
+    <script>
+        fetch('../include/head.html')
+            .then(response => response.text())
+            .then(data => {
+                document.head.innerHTML += data;
+            });
+    </script>
+</head>
+<body>
+
+    <!-- Header carregado via JS -->
+    <div id="header-container"></div>
+    <script>
+        fetch('../include/header.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('header-container').innerHTML = data;
+            });
+    </script>
+
+	<div class="header gradient">
+	<div class="promo-area">
+<p>
+<ul>
+  <li><a href="env-highlight-examples.html">env-highlight-*</a></li>
+  <li><a href="env-box-examples.html">env-box-*</a></li>
+</ul>
+
+</p>
+	</div>
+	</div>
+
+    <!-- Footer carregado via JS -->
+    <div id="footer-container"></div>
+    <script>
+        fetch('../include/footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('footer-container').innerHTML = data;
+            });
+    </script>
+
+</body>
+</html>

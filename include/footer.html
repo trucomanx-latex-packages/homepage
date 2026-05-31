@@ -23,22 +23,7 @@
 	<div class="box">
 		<h3>News</h3>
 		<div class="box-content">
-			<?php
-			$rss_feed = simplexml_load_file("https://sourceforge.net/p/latex-macros-packages/activity/feed");
-			if(!empty($rss_feed)) 
-			{
-				$i=0;
-				foreach ($rss_feed->channel->item as $feed_item) 
-				{
-					if($i>=4) break;
-					?>
-					<div><a class="feed_title" href="<?php echo $feed_item->link; ?>"><b><?php echo $feed_item->title; ?></b></a></div>
-					<div><?php echo implode(' ', array_slice(explode(' ', $feed_item->description), 0, 14)) . "..."; ?></div>
-					<?php		
-					$i++;	
-				}
-			}
-			?>
+	
 		</div>
 	</div>
 
