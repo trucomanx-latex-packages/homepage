@@ -2,7 +2,7 @@
 <head>
     <!-- Substitua o PHP por um fetch para o head -->
     <script>
-        fetch('../include/head.html')
+        fetch('include/head.html')
             .then(response => response.text())
             .then(data => {
                 document.head.innerHTML += data;
@@ -10,36 +10,37 @@
     </script>
 </head>
 <body>
-
     <!-- Header carregado via JS -->
     <div id="header-container"></div>
     <script>
-        fetch('../include/header.html')
+        fetch('include/header.html')
             .then(response => response.text())
             .then(data => {
                 document.getElementById('header-container').innerHTML = data;
             });
     </script>
 
-<!-- *********************************************************************** -->
-<div class="header libgradient">
-	<h2>catalographic-card</h2>
-	<p>
-		Download the latex package of catalographic-card from
-		<a href="https://github.com/trucomanx-latex-packages/catalographic-card">
-		this link:<br>
-		<div class="whiteblock">
-		<img src="https://github.com/trucomanx-latex-packages/catalographic-card/blob/main/screenshot.png?raw=true"/>
-		</div>
-		</a> 
-	</p>
-</div>
-<!-- *********************************************************************** -->
+	<div class="header gradient">
+	<div class="promo-area">
+		<h2>LATEX-MACROS-PACKAGES</h2>
+		<p>
+			Can be downloaded many latex macro packages from the git repository of 
+			<a href="https://github.com/trucomanx-latex-packages"><b>latex-macros-packages</b></a> 
+			project.
+		</p> 
+	</div>
+	</div>
 
+<!----------------------------------------------------------------------------->
+
+
+{{body}}
+
+<!----------------------------------------------------------------------------->
     <!-- Footer carregado via JS -->
     <div id="footer-container"></div>
     <script>
-        fetch('../include/footer.html')
+        fetch('include/footer.html')
             .then(response => response.text())
             .then(data => {
                 document.getElementById('footer-container').innerHTML = data;
