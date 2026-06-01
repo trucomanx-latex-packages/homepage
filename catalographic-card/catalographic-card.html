@@ -1,34 +1,50 @@
 <html>
 <head>
-	<?php 
-	include '../include/head-sub.php';
-	?>
+    <!-- Substitua o PHP por um fetch para o head -->
+    <script>
+        fetch('../include/head.html')
+            .then(response => response.text())
+            .then(data => {
+                document.head.innerHTML += data;
+            });
+    </script>
 </head>
 <body>
 
-<?php
-ini_set('default_charset','UTF8');
-include '../include/header-sub.php';
-?>
+    <!-- Header carregado via JS -->
+    <div id="header-container"></div>
+    <script>
+        fetch('../include/header.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('header-container').innerHTML = data;
+            });
+    </script>
 
 <!-- *********************************************************************** -->
 <div class="header libgradient">
 	<h2>catalographic-card</h2>
 	<p>
 		Download the latex package of catalographic-card from
-		<a href="https://sourceforge.net/p/latex-macros-packages/catalographic-card/ci/main/tree/">
+		<a href="https://github.com/trucomanx-latex-packages/catalographic-card">
 		this link:<br>
 		<div class="whiteblock">
-		<img src="https://sourceforge.net/p/latex-macros-packages/catalographic-card/ci/main/tree/screenshot.png?format=raw"/>
+		<img src="https://raw.githubusercontent.com/trucomanx-latex-packages/catalographic-card/refs/heads/master/screenshot.png"/>
 		</div>
 		</a> 
 	</p>
 </div>
 <!-- *********************************************************************** -->
 
-<?php 
-include '../include/footer-sub.php';
-?>
+    <!-- Footer carregado via JS -->
+    <div id="footer-container"></div>
+    <script>
+        fetch('../include/footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('footer-container').innerHTML = data;
+            });
+    </script>
 
 </body>
 </html>
