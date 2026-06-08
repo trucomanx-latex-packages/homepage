@@ -51,7 +51,8 @@ data_list=[
         "description": "Packages with commands to modify the <b>section</b> command.",
         "packages": [
             "section-format-simplecolor",
-            "section-format-simpleline"
+            "section-format-simpleline",
+            "section-format-numberblock"
             ]
     },
     {
